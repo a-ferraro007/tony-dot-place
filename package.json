@@ -1,0 +1,20 @@
+{
+  "name": "olive-test-template",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "@types/react": "^18.2.21"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "olive dev"
+  },
+  "dependencies": {
+    "olivejs-test": "link:olivejs-test",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
