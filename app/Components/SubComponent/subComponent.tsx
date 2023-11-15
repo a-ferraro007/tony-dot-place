@@ -1,9 +1,6 @@
-import "./styles.css"
-
-export default function App() {
+export default function SubComponent() {
   return (
-    <div className="container">
-      <h1 className="heading"> 🚧 Site In Progress 🚧</h1>
+    <>
       <div className="subheading-container">
         <span className="subheading">
           {" "}
@@ -16,9 +13,16 @@ export default function App() {
             OliveJs
           </a>
         </span>
-        <span className="footnote">  ( it's named after my cat )</span>
+        <span className="footnote"> ( it's named after my cat )</span>
       </div>
-      <span className="subheading mt-3">  you can find my old site <a className="link" href="https://www.tony.place"> here </a></span>
-    </div>
+      <span className="subheading mt-3">
+        {" "}
+        you can find my old site{" "}
+        <a className="link" href="https://super-octo-computing-machine.vercel.app/">
+          {" "}
+          here{" "}
+        </a>
+      </span> 
+    </>
   )
 }
