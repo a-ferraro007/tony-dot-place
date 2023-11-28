@@ -6,7 +6,7 @@ export default function SubComponent() {
           {" "}
           built with a custom react framework in early development:{" "}
           <a
-            className="link"
+            className="text-[#D84A31] underline"
             href="https://github.com/a-ferraro007/OliveJs/tree/main"
           >
             {" "}   
@@ -18,7 +18,7 @@ export default function SubComponent() {
       <span className="text-[8px] md:text-xs mt-3 text-[#f0f8ff]">
         {" "}
         you can find my old site{" "}
-        <a className="text-[#D84A31]" href="https://super-octo-computing-machine.vercel.app/">
+        <a className="text-[#D84A31] underline" href="https://super-octo-computing-machine.vercel.app/">
           {" "}
           here{" "}
         </a>
