@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/react-dom": "^18.2.15",
     "autoprefixer": "^10.4.16",
-    "olivejs-sandbox": "0.0.11",
+    "olivejs-sandbox": "0.0.12",
     "postcss": "^8.4.31",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

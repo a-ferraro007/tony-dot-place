@@ -1,7 +1,7 @@
 export default {
     port: 3000,
-    buildDirectory: "dist",
-    appDirectory: "app",
+    buildDir: "dist",
+    rootDir: "app",
     entrypoints: ["index.tsx"],
     publicPath: '/dist/',
     splitting: false,
