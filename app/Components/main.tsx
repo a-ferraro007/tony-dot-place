@@ -4,7 +4,7 @@ export default function Main() {
       <div>
         <div className="h-full flex flex-col ml-36 mt-48">
           <h1 className="text-6xl font-extralight mb-2">Anthony Ferraro</h1>
-          <h2 className="ml-2 text-2xl font-light"> Software Enginer -
+          <h2 className="ml-2 text-2xl font-light"> Software Engineer -
             <span className="text-2xl font-semibold text-[#F45A27]"> LegalZoom </span></h2>
         </div>
       </div>
