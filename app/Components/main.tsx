@@ -3,7 +3,7 @@ export default function Main() {
     <>
       <nav className="fixed top-0 flex flex-row w-full justify-end gap-2 md:gap-4 py-6 px-4 md:px-10">
         <a className="text-xl md:text-3xl font-extralight border-b-[1.5px] border-black pb-[.125px]" href="https://github.com/a-ferraro007" target="_blank">github</a>
-        <a className="text-xl md:t`ext-3xl font-extralight border-b-[1.5px] border-black pb-[.125px]" href="https://www.linkedin.com/in/anthony-f-9a7084b8/" target="_blank">linkedin</a>
+        <a className="text-xl md:text-3xl font-extralight border-b-[1.5px] border-black pb-[.125px]" href="https://www.linkedin.com/in/anthony-f-9a7084b8/" target="_blank">linkedin</a>
       </nav>
 
       <div>
