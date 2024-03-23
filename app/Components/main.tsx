@@ -9,8 +9,8 @@ export default function Main() {
       <div>
         <div className="h-full flex flex-col items-center md:items-start mt-48 md:ml-36 md:mt-64">
           <h1 className="text-5xl md:text-7xl font-extralight mb-2">Anthony Ferraro</h1>
-          <h2 className="md:ml-4 text-xl md:text-2xl font-light"> Software Engineer <span className="font-semibold">/</span>
-            <span className="text-xl md:text-2xl font-semibold text-[#F45A27]"> LegalZoom </span></h2>
+          <h2 className="md:ml-4 text-xl md:text-2xl font-light"> Software Engineer <span className="font-bold">/</span>
+            <span className="text-xl md:text-2xl font-normal text-[#F45A27]"> LegalZoom </span></h2>
         </div>
       </div>
       <footer className="fixed bottom-0 w-full flex justify-center p-1">
